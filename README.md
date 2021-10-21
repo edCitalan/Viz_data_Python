@@ -11,4 +11,18 @@ The data is from: data.world, which has five features and 63 observations—and 
 
 # Plot
 
-![image](https://user-images.githubusercontent.com/55922514/136735882-d67cb232-f9ec-490b-9768-3b6a56d7a81b.png)
+
+
+![image](https://user-images.githubusercontent.com/55922514/138236602-a0ca2836-2777-444f-b909-476dae8e46ca.png)
+
+
+
+
+dd
+
+
+
+![image](https://user-images.githubusercontent.com/55922514/138236652-0de0f7fd-50b4-492f-a6db-448d046a4435.png)
+
+
+
